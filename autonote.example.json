@@ -1,0 +1,8 @@
+{
+  "notes_dir": "D:\\Notes",
+  "tick_seconds": 2,
+  "name_after_seconds": 10,
+  "max_name_chars": 60,
+  "extension": ".txt",
+  "convert_existing_tabs": false
+}

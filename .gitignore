@@ -1,0 +1,12 @@
+# local settings (may contain a personal folder path)
+autonote.json
+
+# Python
+__pycache__/
+*.pyc
+
+# logs and editor leftovers
+*.log
+.vscode/
+.idea/
+.worktrees/
