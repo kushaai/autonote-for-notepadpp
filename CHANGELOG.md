@@ -3,6 +3,13 @@
 All notable changes to this project are recorded here. Versions follow
 [semantic versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+
+- Demo animation at the top of the README, with the script that renders it
+  in `media/`.
+
 ## [0.1.0] — 2026-10-04
 
 First public release.

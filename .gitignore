@@ -1,6 +1,9 @@
 # local settings (may contain a personal folder path)
 autonote.json
 
+# rendered video; only the GIF is kept in the repo
+media/*.mp4
+
 # Python
 __pycache__/
 *.pyc

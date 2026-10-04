@@ -4,6 +4,10 @@ Stop saving notes by hand. AutoNote gives every new Notepad++ tab a file name
 and keeps it saved, so closing a tab never asks "Save file?" and nothing is
 lost when you forget.
 
+![A new tab is named from its first line, kept saved, and closes without a save prompt](media/autonote-demo.gif)
+
+*Illustration of how it works, not a screen recording.*
+
 It is a small script for the [PythonScript](https://github.com/bruderstein/PythonScript)
 plugin. It is not affiliated with or endorsed by the Notepad++ project.
 
